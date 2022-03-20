@@ -1,0 +1,22 @@
+
+nav{
+    background-color: grey;
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    padding: 50px 16px;
+}
+li{
+    display:block;
+    color:white;
+    float: right;
+    margin-right: 10px;
+}
+li a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+}
