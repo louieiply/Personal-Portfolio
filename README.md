@@ -22,13 +22,13 @@ There are no steps required for installation. You only require a web browser of 
 ## Usage
 
 Usage Screenshot 1
-![screenshot 1](assets/screenshots/screenshot1.PNG)
+![screenshot 1](assets/screenshots/screenshot1.png)
 
 Usage Screenshot 2
-![screenshot 2](assets/screenshots/screenshot2.PNG)
+![screenshot 2](assets/screenshots/screenshot2.png)
 
 Usage Screenshot 3
-![screenshot 2](assets/screenshots/screenshot3.PNG)
+![screenshot 2](assets/screenshots/screenshot3.png)
 
 ## Credit
 
