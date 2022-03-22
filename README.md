@@ -1,11 +1,11 @@
-# Personal-Portfolio
-# <Horiseon-Website>
+# <Personal-Portfolio>
+
 
 ## Description
 
-This is a website of the Horiseon. Horiseon speicalise in Search Engine Optimization, Online Reputation Management, Soical Media Marketing.
+This is a website of Lok Yu Ip (Louie)'s personal portfolio.
 
--The website provided a online solution for Horiseon.
+
 
 ## Table of Contents
 
@@ -40,5 +40,5 @@ Louie Ip, GitHub for storage and hosting
 
 ## Features
 
--The website includes clear description of the Horiseon.
+-The website includes clear description of the owner.
 - Links in header that will lead you their session.
