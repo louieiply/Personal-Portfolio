@@ -5,6 +5,14 @@ html, body{
     font-family: Helvetica;
     background-color: #EDEDF6;
 }
+/* .responsive-image{
+    
+
+    width:auto;
+    object-fit: cover;
+    
+
+} */
 /* Hero Session ps: image can't be loaded locally with access issue in web browser */
 .hero{
     height: 800px;
@@ -28,7 +36,7 @@ html, body{
  font-weight: 400;
  font-size: 1rem;
 }
-.project-container{
+.project-container, .contact-container{
     margin-top: 30px;
     padding-top: 5%;
     padding-bottom: 5%;
@@ -48,16 +56,20 @@ ul{
     padding: 0;
     background-color:#0275dd;
     padding: 50px 16px;
-    align-items: center;
     justify-content: center;
 }
-li{
+nav li{
     display:block;
     color:white;
     float: left;
     padding: 0.5rem 1rem;
+    align-items: center;
 }
-li a{
+nav li:hover{
+    background-color: grey;
+}
+nav li a{
+    align-items: center;
     text-decoration: none;
     font-family: 'PT Sans', sans-serif;
     font-weight: 400;
@@ -111,6 +123,9 @@ li a{
     position: relative;
     top: 25%;
 }
+.text-left{
+    text-align: left;
+}
 .lead{
     text-align: left;
     line-height: 1.6;
@@ -129,4 +144,9 @@ li a{
     text-align: center;
     color:white;
     margin: 8.5rem 0 1.5rem 0;
+}
+#profile-pic{
+    position: relative;
+    top:5%;
+    left: 8%;
 }
