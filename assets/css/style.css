@@ -61,11 +61,18 @@ ul{
     padding: 50px 16px;
     justify-content: center;
 }
+/* Added navbar support with mobile/tablet devices */
+@media screen and (max-width: 600px) {
+    nav li {
+      float: none !important; 
+    }
+  }
+
 /* nav item setting */
 nav li{
     display:block;
     color:white;
-    float: left;
+    float:left;
     padding: 0.5rem 1rem;
     align-items: center;
 }
